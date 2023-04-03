@@ -1708,6 +1708,7 @@ ul {
   background-color: var(--main-color);
   transition: var(--main-transition);
   cursor: pointer;
+  padding-bottom: 20px;
 }
 
 .discount .form input[type="submit"]:hover {
